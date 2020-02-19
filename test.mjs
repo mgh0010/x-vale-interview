@@ -3,5 +3,5 @@ import { eeveeAbilities  } from './eevee.mjs'
 logAbilities();
 
 function logAbilities() {
-  console.log(eeveeAbilities.abilities[0]);
+  console.log(eeveeAbilities);
 } 
